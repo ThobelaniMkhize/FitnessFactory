@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Fitness/routes.php</file>
+            <file>file:/D:/Fitness/connection.php</file>
+            <file>file:/D:/Fitness/controllers/member_controller.php</file>
+            <file>file:/D:/Fitness/views/menuAdmin.php</file>
+            <file>file:/D:/Fitness/views/member/viewProfile.php</file>
+            <file>file:/D:/Fitness/views/member/addMember.php</file>
+            <file>file:/D:/Fitness/controllers/logIn_controller.php</file>
+            <file>file:/D:/Fitness/connect.php</file>
+            <file>file:/D:/Fitness/views/admin/bookingSessionReports.php</file>
+            <file>file:/D:/Fitness/models/member.php</file>
+            <file>file:/D:/Fitness/models/booking.php</file>
+            <file>file:/D:/Fitness/models/bookSessionReports.php</file>
+            <file>file:/D:/Fitness/styleIndex.css</file>
+            <file>file:/D:/Fitness/views/menuMember.php</file>
+            <file>file:/D:/Fitness/controllers/admin_controller.php</file>
+            <file>file:/D:/Fitness/views/admin/viewMember.php</file>
+            <file>file:/D:/Fitness/views/admin/deleteMember.php</file>
+            <file>file:/D:/Fitness/views/member/updateProfile.php</file>
+            <file>file:/D:/Fitness/models/admin.php</file>
+        </group>
+    </open-files>
+</project-private>
